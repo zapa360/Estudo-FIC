@@ -1,0 +1,52 @@
+body{
+	
+	margin-bottom:0px;
+	margin-top: 0px;
+	margin-left:0px;
+	margin-right: 0px;
+	
+	
+}
+
+nav{
+	background-color: #222D32;
+	overflow: hidden;
+	padding-top:0px;
+	width:14%;
+	height: 739px;
+	padding-bottom: 10px;
+	position: relative;
+	
+			
+}
+
+header{
+	width:100%;
+	overflow: hidden;
+	height: 30px;
+}
+
+
+.logo{
+	background-color: #008D4C;
+	background-color: #00A65A;
+	font-size: 22px;
+	overflow: hidden;
+	padding-top: 0px;
+	padding-bottom:0px;
+	padding-right: 14%;
+	margin-bottom:0px;
+		
+}
+
+.redes{
+	background-color: #00A65A;
+	font-size: 22px;
+	overflow: hidden;
+	padding-top: 0px;
+	padding-bottom:0px;
+	padding-right: 14%;
+	margin-bottom:0px;
+	width: 100%;
+		
+}
